@@ -1,6 +1,6 @@
 # IncendiosAmazoniaColombiana_FocosCalor_VIIRS_2014-2022
 <p align="center">
-  <img width="360" src="/Gif_Amazonia_FocosCalor_VIIRS_2014-2022.gif">
+  <img width="360" src="/Gif/Amazonia_FocosCalor_VIIRS_2014-2022.gif">
 </p>
 
 Fuente de datos:
