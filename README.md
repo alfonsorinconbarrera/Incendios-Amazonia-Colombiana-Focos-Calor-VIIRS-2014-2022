@@ -1,1 +1,1 @@
-# IIncendiosAmazoniaColombiana_FocosCalor_VIIRS_2014-2022
+# IncendiosAmazoniaColombiana_FocosCalor_VIIRS_2014-2022
