@@ -1,7 +1,9 @@
 # IncendiosAmazoniaColombiana_FocosCalor_VIIRS_2014-2022
 <p align="center">
-  <img width="360" src="/Gif/Amazonia_FocosCalor_VIIRS_2014-2022.gif">
+  <img width="360" src="/Gif/Amazonia_FocosCalor_VIIRS_2014-2023.gif">
 </p>
+
+Actualizado a 2023
 
 Fuente de datos:
 NRT VIIRS 375 m Producto Active Fire VJ114IMGTDL_NRT distribuido por NASA FIRMS . Disponible  en línea https://earthdata.nasa.gov/firms.
