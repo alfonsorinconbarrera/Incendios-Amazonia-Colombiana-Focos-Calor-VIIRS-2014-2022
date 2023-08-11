@@ -14,4 +14,5 @@ Citación: VIIRS (S-NPP) I Band 375 m Producto de fuego activo NRT (datos vector
 MODIS: producto estándar MODIS MOD14/MYD14 Fire and Thermal Anomalies. Cada ubicación de incendio activo representa el centroide de un píxel de 1 km que el algoritmo marca como que contiene uno o más incendios dentro del píxel. Los datos se rasterizan de la siguiente manera: para cada punto de fuego activo FIRMS, se define un cuadro delimitador (BB) de 1 km; se identifican los píxeles en la proyección sinusoidal de MODIS que se cruzan con FIRMS BB; si múltiples FIRMS BB se cruzan con el mismo píxel, se retiene el que tiene mayor confianza; en caso de empate, se conserva el más brillante.
 Los datos en el conjunto de datos en tiempo casi real no se consideran de calidad científica.
 
-Composición y análisis: Alfonso rincón barrera
+Composición y análisis: 
+Alfonso rincón barrera
